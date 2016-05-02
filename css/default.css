@@ -1,18 +1,18 @@
 @charset "UTF-8";
 h1{
-  font-size: 1.75em;
+  font-size: 2.75em;
   color: #3399cc;
 }
 h2{
-  font-size: 1.25em;
+  font-size: 2.25em;
   color:#3399cc;
 }
 p{
-  font-size: 0.8em;
+  font-size: 1.8em;
   color: #333333;
 }
 li{
-  font-size: 0.8em;
+  font-size: 1.8em;
   color: #333333;
 }
 h1 span{
