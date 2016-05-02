@@ -33,3 +33,21 @@ body{
   background-image: url( /img/KIMG0145.jpg);
   background-repeat: repeat-x; /* 横方向だけ繰り返し */
 }
+h1{
+  font-size: 1.75em;
+  color: #333333;
+  background-color: #3399cc;
+}
+h2{
+  font-size: 1.25em;
+  color: #ffffff;
+  border: #94c8b1 1px dotted;
+  border-left:#d0e35b 10px solid;
+  margin-bottom: 0;
+  padding: 5px 20px;
+}
+p{
+  font-size: 0.8em;
+  color: #333333;
+  background-color: #3399cc;
+}
