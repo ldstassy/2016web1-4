@@ -51,3 +51,6 @@ p{
   color: #333333;
   background-color: #3399cc;
 }
+h1::first-letter{
+  font-size: 3.75em;
+}
