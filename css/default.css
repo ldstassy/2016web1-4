@@ -29,7 +29,7 @@ h1 span{
   text-align: center;
 }
 body{
-  background-color: #bf9cc; /* 背景色を変える */
+  background-color: #bf90cc; /* 背景色を変える */
   background-image: url( /img/KIMG0145.jpg);
   background-repeat: repeat-x; /* 横方向だけ繰り返し */
 }
